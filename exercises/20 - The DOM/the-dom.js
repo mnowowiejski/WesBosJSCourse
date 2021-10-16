@@ -1,4 +1,4 @@
-// console.log("How bout them Ravens!");
+console.log("How bout them Ravens!");
 
 // // const imgs = document.querySelectorAll("img");
 // // const items2 = document.querySelector(".farts");
@@ -34,3 +34,10 @@ function toggleRound() {
 }
 
 pic.addEventListener("click", toggleRound);
+
+pic.alt = "Puppy Time";
+pic.width = 455;
+
+pic.addEventListener("click", function () {
+  alert("what are you doing now?");
+});
