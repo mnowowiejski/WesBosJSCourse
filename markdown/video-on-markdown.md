@@ -4,7 +4,7 @@ Hello these - welcome to _mastering markdown!_
 
 Markus loves tots!
 
-Markus eats tacos.
+and Markus eats tacos.
 
 The Ravens will **kick your ass** this sunday.
 
@@ -26,7 +26,7 @@ Here is an picture of something
 
 ![alternate text goes here](https://picsum.photos/200/300)
 
-## List and stuff
+## Lists and stuff
 
 ### Beers
 
@@ -39,8 +39,33 @@ Here is an picture of something
 
 1. Shine it up
 
-- Sift the flower
-- wtf?
+- nice and good
+- extra polish
 
-1. Turn is sideway
+1. Turn is sideways
 1. stick it straigh up your candy ass!
+
+### Linebreaks the old HR and BlockQuotes
+
+Just a breaktage <br> to create a link break.
+
+## Something
+
+# or this
+
+**block quotes**
+
+> You miss 100% of the shots you don't take.<br> - Michael Scott
+
+### Code blocks
+
+Here is my code:
+
+<h1>Hello World</h1>
+<p>I am an <em>exciting</em> paragraph
+
+```html
+<p class="hello">Hello World</p>
+```
+
+Hey did you try `console.log('Go ravens!');`?
