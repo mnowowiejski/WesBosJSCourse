@@ -1,4 +1,4 @@
-#Mastering Markdown
+# Mastering Markdown
 
 Hello these - welcome to _mastering markdown!_
 
@@ -10,7 +10,7 @@ The Ravens will **kick your ass** this sunday.
 
 I ~~love~~ my job.
 
-##Heading number 2
+## Heading number 2
 
 ### heading level 3 - links
 
@@ -18,10 +18,10 @@ I ~~love~~ my job.
 
 or
 
-[my linkedin page](http://linkedin/in/nowowiejski)
+[my linkedin page](http://linkedin.com/in/nowowiejski)
 
 ##Image time!
 
 Here is an picture of something
 
-![alternate text goes here](http://unsplash.it/500/500?random)
+![alternate text goes here](https://picsum.photos/200/300)
