@@ -69,3 +69,17 @@ Pure HTML:
 ```
 
 Hey did you try `console.log('Go ravens!');`?
+
+# Tables
+
+| Dog's Name | Dog's Age |
+| :--------- | :-------- |
+| Finn       | 5         |
+| Maya       | 9         |
+
+## More stuff
+
+_[ ] Get Milk
+_[ ] Eat Shit \*[x] Add Die!
+
+<p> Thanks for reading</p>
