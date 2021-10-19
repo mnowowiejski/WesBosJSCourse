@@ -1,6 +1,6 @@
 # Mastering Markdown
 
-Hello these - welcome to _mastering markdown!_
+Hello there - welcome to _mastering markdown!_
 
 Markus loves tots!
 
@@ -8,7 +8,7 @@ and Markus eats tacos.
 
 The Ravens will **kick your ass** this sunday.
 
-I ~~love~~ my job.
+I ~~love~~ withstand my job.
 
 ## Heading number 2
 
@@ -47,7 +47,7 @@ Here is an picture of something
 
 ### Linebreaks the old HR and BlockQuotes
 
-Just a breaktage <br> to create a link break.
+Just a breaktag <br> to create a link break.
 
 ## Something
 
@@ -55,11 +55,11 @@ Just a breaktage <br> to create a link break.
 
 **block quotes**
 
-> You miss 100% of the shots you don't take.<br> - Michael Scott
+> "You miss 100% of the shots you don't take."<br> - _Michael Scott_
 
 ### Code blocks
 
-Here is my code:
+Pure HTML:
 
 <h1>Hello World</h1>
 <p>I am an <em>exciting</em> paragraph
