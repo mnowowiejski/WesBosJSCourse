@@ -20,8 +20,27 @@ or
 
 [my linkedin page](http://linkedin.com/in/nowowiejski)
 
-##Image time!
+## Image time!
 
 Here is an picture of something
 
 ![alternate text goes here](https://picsum.photos/200/300)
+
+## List and stuff
+
+### Beers
+
+- Boh
+- Bud
+- Corona
+- Stouts
+
+### Orders from The Rock
+
+1. Shine it up
+
+- Sift the flower
+- wtf?
+
+1. Turn is sideway
+1. stick it straigh up your candy ass!
