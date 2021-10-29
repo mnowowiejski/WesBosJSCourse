@@ -19,6 +19,18 @@ beavis.addEventListener("click", handleClick);
 
 const buyButtons = document.querySelectorAll("button.buy");
 
-function buyButtons.forEach(function (buybutton) {
-  console.log(buyButton);
+function handleBuyButtonClick(event) {
+  const button = event.target;
+  console.log(button.textContent);
+  console.log("You Clicked The Button!");
+  console.log(event.target.dataset.price);
+  console.log(this);
+}
+
+buyButtons.forEach(function (buyButton) {
+  buyButton.addEventListener("click", handleBuyButtonClick);
+});
+
+window.addEventListener("click", function () {
+  console.log("wtf?");
 });
